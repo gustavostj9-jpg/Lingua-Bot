@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+conan.db
+panel_message.txt
+soulmask_panel_message.txt
+transcript-*.txt
+*.bak
+Backup Bot
