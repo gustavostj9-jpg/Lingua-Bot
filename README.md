@@ -16,14 +16,7 @@ Use `/idiomas` no Discord para ver todas as bandeiras aceitas.
 
 > A tradução usa um endpoint público do Google Translate; requer internet e está sujeita à disponibilidade do serviço.
 
-## Publicar no GitHub
-
-O arquivo `.env` está ignorado pelo Git. Nunca publique o token do bot. Se um token já tiver sido exposto, gere outro no Developer Portal antes de publicar.
-
-```bash
-git init
-git add .
-git commit -m "feat: add reaction-based Discord translator"
+ translator"
 ```
 
 ## Licença
